@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BV"
 include(":app")
-include(":app:mobile")
+//include(":app:mobile")
 include(":app:shared")
 include(":app:tv")
 include(":bili-api")
